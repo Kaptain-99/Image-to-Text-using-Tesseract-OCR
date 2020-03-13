@@ -1,0 +1,2 @@
+Link to download EAST Text Detector download-
+https://www.learnopencv.com/deep-learning-based-text-detection-using-opencv-c-python/
