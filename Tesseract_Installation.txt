@@ -1,0 +1,2 @@
+Link to install Tesseract library-
+https://github.com/UB-Mannheim/tesseract/wiki
