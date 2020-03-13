@@ -1,0 +1,5 @@
+Annaconda Prompt Command - 
+python text_recognition.py --east=C:\Users\ManuPC\AppData\Local\Continuum\anaconda3\frozen_east_text_detection.pb -image=C:/Users/ManuPC/Desktop/image_name.type
+
+image_name : The name of your image you are converting text from
+type : jpg, png, etc. (mainly preferred is png for pytesseract)
